@@ -1,0 +1,4 @@
+{{{{{mem[-(1)+((2))]!=mem[(1+(2))*(((mem[3])))]}}} or (((((ahead[5])))))>((((nearby[4]))))} and (((nearby[1])))!=((ahead[2]))}
+        --> tag[2];
+
+mem[0]>0 --> mem[12]:=random[10]*((0*(1+2)-3)/4 mod (5+(nearby[4]+ahead[3])+random[2])) eat;

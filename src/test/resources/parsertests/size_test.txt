@@ -1,0 +1,8 @@
+// Total size: (sum all rule sizes) + (# of rules) + (1 for ParserImpl node)
+// Total size: (6 + 27) + 2 + 1 = 36
+
+2 + 3 > 4 --> bud; // Rule size: 6
+
+{7 * 2 != 12 and 8 / 4 = 2} or ahead[1] = 4 --> ENERGY := 3
+                                                mem[3] := 12
+                                                serve[8 / 9]; // Rule size: 27

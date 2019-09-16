@@ -1,0 +1,1077 @@
+commit 65b67a204450f7dd1a6a4bd5b596fbc012f43efa
+Merge: 2a7bf9c 97a488b
+Author: mf647 <mf647@cornell.edu>
+Date:   Mon Nov 13 12:27:53 2017 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-f17/team-mf647-ssc248-cw.git
+
+commit 2a7bf9cf7bfd5419d99ab3f18d651d1b27814d3c
+Author: mf647 <mf647@cornell.edu>
+Date:   Mon Nov 13 12:27:29 2017 -0500
+
+    Random changes
+
+commit 97a488bc0dffdd280d9d3b3c344220c4d5feb284
+Merge: 84939ec f9437a4
+Author: Stephen Chin <ikmujn780@gmail.com>
+Date:   Fri Nov 10 00:41:05 2017 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-f17/team-mf647-ssc248-cw
+
+commit 84939ec2580ba088f7b87e4d8ad21640147d058f
+Author: Stephen Chin <ikmujn780@gmail.com>
+Date:   Fri Nov 10 00:40:53 2017 -0500
+
+    Simulation now takes different input, zoom in and out disables
+
+commit f9437a42f5c913640c58ec1e2c6a9bf319fcc742
+Author: mf647 <mf647@cornell.edu>
+Date:   Fri Nov 10 00:31:33 2017 -0500
+
+    Added some messages
+
+commit 42fc1b576ebd528558525a94eb6d1c568e1ff6ad
+Merge: ef0572b 770f8f3
+Author: mf647 <mf647@cornell.edu>
+Date:   Fri Nov 10 00:06:22 2017 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-f17/team-mf647-ssc248-cw.git
+
+commit ef0572b4b800a16e6f38a6472f7c0963484edc63
+Author: mf647 <mf647@cornell.edu>
+Date:   Fri Nov 10 00:06:07 2017 -0500
+
+    Zoom, Zoom
+
+commit 770f8f30617328a970eb099440052cc92aaefaee
+Author: Stephen Chin <ikmujn780@gmail.com>
+Date:   Fri Nov 10 00:04:53 2017 -0500
+
+    critter file rename
+
+commit 3317a7c32dcab46dd0215c4dd9cdeaa5127f63f0
+Author: Stephen Chin <ikmujn780@gmail.com>
+Date:   Thu Nov 9 23:41:09 2017 -0500
+
+    Window resizing works
+
+commit d6b78a3c5f1257af537be01410f1209fa6bd021f
+Author: Stephen Chin <ikmujn780@gmail.com>
+Date:   Thu Nov 9 22:40:45 2017 -0500
+
+    merge conflicts resolved
+
+commit 2008a150b5cd813316b734f049985722b8c4679b
+Author: mf647 <mf647@cornell.edu>
+Date:   Thu Nov 9 22:32:12 2017 -0500
+
+    Small fixes
+
+commit 2d71e42b0e43259410d47dbf5263ac7210cdbbd0
+Merge: 93f3e35 8044a4f
+Author: mf647 <mf647@cornell.edu>
+Date:   Thu Nov 9 19:42:38 2017 -0500
+
+    Merge branch 'master' of
+    https://github.coecis.cornell.edu/cs2112-f17/team-mf647-ssc248-cw.git
+    
+    Conflicts:
+            src/main/java/console/CritterWorldController.java
+
+commit 93f3e35ea783c78333ae7d254c50c874bd859d7e
+Author: mf647 <mf647@cornell.edu>
+Date:   Thu Nov 9 18:35:20 2017 -0500
+
+    asd
+
+commit 8044a4f82e99f957f2b7f1f3bf4b6f6628e8d5ef
+Author: Stephen Chin <ikmujn780@gmail.com>
+Date:   Thu Nov 9 18:30:53 2017 -0500
+
+    Load Critters is partially implemented
+
+commit 32737d94965ab74b10593ceaea6fb2207bff00a6
+Merge: a911cc3 c877939
+Author: mf647 <mf647@cornell.edu>
+Date:   Thu Nov 9 16:27:10 2017 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-f17/team-mf647-ssc248-cw.git
+
+commit a911cc31b4ff026fa67e5c02f3f51bed1c701afe
+Author: mf647 <mf647@cornell.edu>
+Date:   Thu Nov 9 16:26:55 2017 -0500
+
+    sjds
+
+commit c877939c91c4fd2912ce30ec56a2ebcda27ced28
+Author: Stephen Chin <ikmujn780@gmail.com>
+Date:   Thu Nov 9 16:25:13 2017 -0500
+
+    Fixed clicking, optimzed hex info loading, added pictures
+
+commit 7d9e9e6aab5dd00cc00740ca09cf8b6dfe900eac
+Merge: 94cfad0 277a663
+Author: Stephen Chin <ikmujn780@gmail.com>
+Date:   Thu Nov 9 13:56:41 2017 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-f17/team-mf647-ssc248-cw
+
+commit 94cfad0c646a94aab4a563628b0b595b795b3514
+Author: Stephen Chin <ikmujn780@gmail.com>
+Date:   Thu Nov 9 13:56:37 2017 -0500
+
+    Image files on hex grid
+
+commit 277a6639179dc0594edf05b056dbb86be4d0fc86
+Author: mf647 <mf647@cornell.edu>
+Date:   Thu Nov 9 12:38:18 2017 -0500
+
+    User can enter speed of simulation
+
+commit 2e7fc52bf0e496a767ba26f1cebe0967ca2a2b4c
+Author: mf647 <mf647@cornell.edu>
+Date:   Thu Nov 9 12:30:16 2017 -0500
+
+    Synchronized
+
+commit 7334a6008785538fc640ff6fb43130d2f0e9267c
+Author: mf647 <mf647@cornell.edu>
+Date:   Thu Nov 9 11:57:00 2017 -0500
+
+    Timer to work
+
+commit b11e8140099e17b8dc98b66a2381a7be104a46fb
+Author: Stephen Chin <ikmujn780@gmail.com>
+Date:   Wed Nov 8 23:25:14 2017 -0500
+
+    image files for later, pixel to hex kinda works
+
+commit 8f1509f3db6b2ae7c5f94c5e6cdef30326e4b42a
+Author: mf647 <mf647@cornell.edu>
+Date:   Wed Nov 8 22:22:30 2017 -0500
+
+    Clicking
+
+commit 4cb9ddea7baf4cb2dcc4ba15ab868a88a525da58
+Author: mf647 <mf647@cornell.edu>
+Date:   Wed Nov 8 18:28:43 2017 -0500
+
+    Clicking
+
+commit a51bd6c64c2e5bbc18bb3feb2ebecd3e3c8f7538
+Author: mf647 <mf647@cornell.edu>
+Date:   Wed Nov 8 17:10:26 2017 -0500
+
+    Display critter steps and number of critters
+
+commit a15355d04b1faece6918848cc130279b77a1af8b
+Author: mf647 <mf647@cornell.edu>
+Date:   Wed Nov 8 12:46:14 2017 -0500
+
+    Alert messages, Critter simulation, Stepping, Critter Placement
+
+commit fb1dbcafbe4d3fb754083a6bd3b5a310b8348e25
+Merge: 57294a5 0fd61f2
+Author: Stephen Chin <ikmujn780@gmail.com>
+Date:   Wed Nov 8 00:42:46 2017 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-f17/team-mf647-ssc248-cw
+
+commit 57294a50089b8fc47a43aef77368b3c198547ad3
+Author: Stephen Chin <ikmujn780@gmail.com>
+Date:   Wed Nov 8 00:42:35 2017 -0500
+
+    Added DrawCritter to controller
+
+commit 0fd61f292049a187c99f590d826358ccd1805384
+Author: mf647 <mf647@cornell.edu>
+Date:   Wed Nov 8 00:21:36 2017 -0500
+
+    Scrolling, dragging, zooming
+
+commit 2b00244518fd250a2dc923fbdec4c578a6825600
+Author: mf647 <mf647@cornell.edu>
+Date:   Tue Nov 7 21:26:04 2017 -0500
+
+    Worked on buttons, hex map
+
+commit bcdbc712cf5ff4da6734638c6457055ed7643234
+Author: mf647 <mf647@cornell.edu>
+Date:   Tue Nov 7 14:16:59 2017 -0500
+
+    Fixed hexes
+
+commit caa270b26f211a2fba9cdcaf3b255ea10d09784d
+Author: mf647 <mf647@cornell.edu>
+Date:   Tue Nov 7 08:39:39 2017 -0500
+
+    Got the Hexagon tiles working
+
+commit 1b52ffcdafc9d8851ab3b26ab351c832f6e7119b
+Merge: 5e642a5 2e0ee8c
+Author: mf647 <mf647@cornell.edu>
+Date:   Mon Nov 6 12:23:22 2017 -0500
+
+    Merge branch 'master' of
+    https://github.coecis.cornell.edu/cs2112-f17/team-mf647-ssc248-cw.git
+    
+    Conflicts:
+            .gitignore
+            README.md
+            build.gradle
+            examples/constants.txt
+            examples/example_critter.txt
+            examples/example_critter1.txt
+            examples/world.txt
+            examples/world1.txt
+            gradlew
+            gradlew.bat
+            settings.gradle
+            src/main/java/ast/AbstractNode.java
+            src/main/java/ast/Action.java
+            src/main/java/ast/ActionImpl.java
+            src/main/java/ast/BinaryCondition.java
+            src/main/java/ast/Condition.java
+            src/main/java/ast/DuplicateMutation.java
+            src/main/java/ast/Expr.java
+            src/main/java/ast/FactorExpr.java
+            src/main/java/ast/InsertMutation.java
+            src/main/java/ast/MemExpr.java
+            src/main/java/ast/Mutation.java
+            src/main/java/ast/MutationFactory.java
+            src/main/java/ast/Node.java
+            src/main/java/ast/NumExpr.java
+            src/main/java/ast/Program.java
+            src/main/java/ast/ProgramImpl.java
+            src/main/java/ast/RelationCondition.java
+            src/main/java/ast/RemoveMutation.java
+            src/main/java/ast/ReplaceMutation.java
+            src/main/java/ast/Rule.java
+            src/main/java/ast/SensorExpr.java
+            src/main/java/ast/SwapMutation.java
+            src/main/java/ast/TermExpr.java
+            src/main/java/ast/TransformMutation.java
+            src/main/java/ast/Update.java
+            src/main/java/ast/UpdateImpl.java
+            src/main/java/console/Console.java
+            src/main/java/console/Constants.java
+            src/main/java/console/Critter.java
+            src/main/java/console/Hex.java
+            src/main/java/console/Main.java
+            src/main/java/console/World.java
+            src/main/java/console/constants.txt
+            src/main/java/console/simwindow.fxml
+            src/main/java/exceptions/SyntaxError.java
+            src/main/java/interpret/Interpreter.java
+            src/main/java/interpret/InterpreterImpl.java
+            src/main/java/interpret/Outcome.java
+            src/main/java/interpret/OutcomeImpl.java
+            src/main/java/main/ParseAndMutateApp.java
+            src/main/java/parse/Parser.java
+            src/main/java/parse/ParserFactory.java
+            src/main/java/parse/ParserImpl.java
+            src/main/java/parse/Token.java
+            src/main/java/parse/TokenCategory.java
+            src/main/java/parse/TokenType.java
+            src/main/java/parse/Tokenizer.java
+            src/main/resources/constants.txt
+            src/test/java/parsertests/CloneTest.java
+            src/test/java/parsertests/InterpreterTests.java
+            src/test/java/parsertests/MutationTests.java
+            src/test/java/parsertests/NodeAtTest.java
+            src/test/java/parsertests/ParserTest.java
+            src/test/java/parsertests/SizeTest.java
+            src/test/java/parsertests/WorldTests.java
+            src/test/resources/parsertests/constants.txt
+            src/test/resources/parsertests/draw_critter.txt
+            src/test/resources/parsertests/example-critter.txt
+            src/test/resources/parsertests/example-rules.txt
+            src/test/resources/parsertests/mutated_critter_1.txt
+            src/test/resources/parsertests/mutated_critter_2.txt
+            src/test/resources/parsertests/mutated_critter_3.txt
+            src/test/resources/parsertests/mutated_critter_4.txt
+            src/test/resources/parsertests/mutated_critter_5.txt
+            src/test/resources/parsertests/mutated_critter_6.txt
+            src/test/resources/parsertests/size_test.txt
+            src/test/resources/parsertests/testCritter
+            src/test/resources/parsertests/unmutated_critter.txt
+            src/test/resources/parsertests/world.txt
+
+commit 5e642a5674a02099e6f5a599f9bd6799e92988e2
+Author: mf647 <mf647@cornell.edu>
+Date:   Mon Nov 6 12:21:32 2017 -0500
+
+    asd
+
+commit 2e0ee8c011a505b1e3d09c8819cc75f14f802ab2
+Author: mf647 <mf647@cornell.edu>
+Date:   Mon Nov 6 12:01:39 2017 -0500
+
+    Got the example to work
+
+commit 76329f395a0dc2a1976b1b2e2b014efbf58857d5
+Author: Stephen Chin <ikmujn780@gmail.com>
+Date:   Mon Nov 6 10:20:08 2017 -0500
+
+    Messing around with fxml files in Main
+
+commit c6182d52b5b39315d358a45d2d7575babede899e
+Author: mf647 <mf647@cornell.edu>
+Date:   Sun Nov 5 10:11:04 2017 -0500
+
+    Bug fixes
+
+commit 606e1ee1571e9ab33abc79fd8ea4c581c3e4cd76
+Author: mf647 <mf647@cornell.edu>
+Date:   Sun Nov 5 09:45:50 2017 -0500
+
+    Finished fixing critter actions
+
+commit 039dfeb49e079db90ad84f4580c7f264ce837e79
+Author: mf647 <mf647@cornell.edu>
+Date:   Sat Nov 4 19:41:39 2017 -0400
+
+    Fixed some actions in the critter, optimized code
+
+commit ef468f9d06bef24842811cedea546284c74f9593
+Merge: 245c597 8d438c8
+Author: mf647 <mf647@cornell.edu>
+Date:   Thu Nov 2 00:20:42 2017 -0400
+
+    Merge branch 'master' of
+    https://github.coecis.cornell.edu/cs2112-f17/team-mf647-ssc248-cw.git
+    
+    Conflicts:
+            src/main/java/console/World.java
+
+commit 245c597b4dc923f0da1ca019ad82cf95150bba7d
+Author: mf647 <mf647@cornell.edu>
+Date:   Thu Nov 2 00:18:02 2017 -0400
+
+    Wrote the addCritter method in World
+
+commit 8d438c8321e55522400635be0dca43d512d1c6a4
+Author: Stephen Chin <ikmujn780@gmail.com>
+Date:   Wed Nov 1 23:25:41 2017 -0400
+
+    Changed world to only initialized critter files that are in the same folder, changed resourse as stream calls
+
+commit 6ed6e5770846fd389d0da38a7dd9e4ec7fd98ca9
+Author: mf647 <mf647@cornell.edu>
+Date:   Wed Nov 1 17:10:54 2017 -0400
+
+    Slight Comments, bug fixes, and testing
+
+commit aa68fa0eed8e5aaa6e077571b99c941ae64af5bf
+Merge: e4c4e59 4164cf5
+Author: Stephen Chin <ikmujn780@gmail.com>
+Date:   Fri Oct 27 00:06:45 2017 -0400
+
+    Merge conflicts
+
+commit e4c4e5936940ecc98c2c675705b8f14315665d36
+Author: Stephen Chin <ikmujn780@gmail.com>
+Date:   Fri Oct 27 00:03:19 2017 -0400
+
+    Bug testing
+
+commit 4164cf554e13d350cd1d8a6d711f885ffda7582b
+Author: mf647 <mf647@cornell.edu>
+Date:   Thu Oct 26 23:55:53 2017 -0400
+
+    Small fixes
+
+commit 004464601a25ac4fec5c908f749d90a679dda0e1
+Merge: c60a7ee bdefe0d
+Author: Stephen Chin <ikmujn780@gmail.com>
+Date:   Thu Oct 26 22:52:51 2017 -0400
+
+    Merge conflicts resolved
+
+commit c60a7eea8083ff38bdecfdb49cdd1428b90cd4cb
+Author: Stephen Chin <ikmujn780@gmail.com>
+Date:   Thu Oct 26 22:50:01 2017 -0400
+
+    bug testing
+
+commit bdefe0d2b9fc3cb5cfd638fff8babe3f301c83c4
+Author: mf647 <mf647@cornell.edu>
+Date:   Thu Oct 26 22:47:17 2017 -0400
+
+    Finished Mate
+
+commit 0aebb78f23f7fb6c1251d5b23fd00107f4aad38d
+Merge: 10d8ca7 22f1030
+Author: Stephen Chin <ikmujn780@gmail.com>
+Date:   Thu Oct 26 16:11:05 2017 -0400
+
+    Fixed merge conflicts
+
+commit 22f10304053a2015382ded3fb5302cdb2b56155c
+Merge: ffd0488 326d2d2
+Author: mf647 <mf647@cornell.edu>
+Date:   Thu Oct 26 16:07:44 2017 -0400
+
+    Merge branch 'master' of
+    https://github.coecis.cornell.edu/cs2112-f17/team-mf647-ssc248-cw.git
+    
+    Conflicts:
+            src/main/java/console/Critter.java
+
+commit ffd0488befb2405cdeffc3704f8217a0c7dcf81f
+Author: mf647 <mf647@cornell.edu>
+Date:   Thu Oct 26 16:06:48 2017 -0400
+
+    Most of the Actions are done
+
+commit 10d8ca782e537b398cf8483892d3ee51523d1d20
+Author: Stephen Chin <ikmujn780@gmail.com>
+Date:   Thu Oct 26 16:00:19 2017 -0400
+
+    Map printing now works. World no longer throws syntax errors
+
+commit 326d2d25aeb3a2f321031335cf0ddfbd35758e17
+Author: Stephen Chin <ikmujn780@gmail.com>
+Date:   Thu Oct 26 12:55:19 2017 -0400
+
+    testing world with console and debugging
+
+commit 256636632b5dc24021337369541ca60fa910a94c
+Author: mf647 <mf647@cornell.edu>
+Date:   Thu Oct 26 12:51:58 2017 -0400
+
+    Finished nearby sensor
+
+commit 87877b5f2e939b2d7f91d0093714fa65f5de24c9
+Merge: de3fc03 8a0d24d
+Author: mf647 <mf647@cornell.edu>
+Date:   Thu Oct 26 11:37:57 2017 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-f17/team-mf647-ssc248-cw.git
+
+commit de3fc0393f641cba2f9bd14a5730b97c6d1c9f40
+Author: mf647 <mf647@cornell.edu>
+Date:   Thu Oct 26 11:37:42 2017 -0400
+
+    asd
+
+commit 8a0d24d8470f3eb0689592705502fe90cde4b264
+Author: Stephen Chin <ikmujn780@gmail.com>
+Date:   Thu Oct 26 11:33:59 2017 -0400
+
+    Implementing required console methods, added getter methods to Critter, Hex, and World
+
+commit e1cdf412def027434913f2e26d5a025cd92dd315
+Author: mf647 <mf647@cornell.edu>
+Date:   Wed Oct 25 22:39:34 2017 -0400
+
+    Added some more interpreter tests
+
+commit d6a124aa0fe6b52a4d40388ec78e7b6bb7385619
+Merge: 24da45c 7880838
+Author: mf647 <mf647@cornell.edu>
+Date:   Wed Oct 25 21:41:31 2017 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-f17/team-mf647-ssc248-cw.git
+
+commit 24da45caf83ef0c08b1e76f57d7a4ff1fa580d8a
+Author: mf647 <mf647@cornell.edu>
+Date:   Wed Oct 25 21:41:05 2017 -0400
+
+    Worked on critter constructor
+
+commit 78808388f11884ade589c7b3839934d2c04006ca
+Author: Stephen Chin <ikmujn780@gmail.com>
+Date:   Wed Oct 25 20:08:45 2017 -0400
+
+    Implemented addCritter and changed example-critter to example_critter to match world.txt
+
+commit ea89a193a4ddaedf52ea0ac34215382c6058a711
+Author: mf647 <mf647@cornell.edu>
+Date:   Wed Oct 25 19:09:56 2017 -0400
+
+    Finished Interpreter for sure I think
+
+commit aeca1e9b83b47558f62197752f71ef4e7f744742
+Author: mf647 <mf647@cornell.edu>
+Date:   Wed Oct 25 19:01:31 2017 -0400
+
+    Finished Interpreter
+
+commit 52233559a8c5a6b8459d7cd3182b4b264e055b0e
+Merge: 195d28b 64f0134
+Author: Stephen Chin <ikmujn780@gmail.com>
+Date:   Wed Oct 25 17:36:28 2017 -0400
+
+    fixed meging conflicts
+
+commit 195d28b096f331f42316068eb3746670a92c76ad
+Author: Stephen Chin <ikmujn780@gmail.com>
+Date:   Wed Oct 25 17:33:49 2017 -0400
+
+    Remade constants class to be static, recheck filepath in static init
+
+commit 64f0134aba7d3de7cfb7d0858a2bce9977aa32a2
+Merge: c1f01b0 d7a21b1
+Author: mf647 <mf647@cornell.edu>
+Date:   Wed Oct 25 00:35:17 2017 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-f17/team-mf647-ssc248-cw.git
+
+commit c1f01b0f385870032197bc46d27ba5379fea13f0
+Author: mf647 <mf647@cornell.edu>
+Date:   Wed Oct 25 00:34:51 2017 -0400
+
+    Finished most of the Interpreter
+
+commit d7a21b18c92c909a1e65cb690044237a35f1847d
+Author: Stephen Chin <ikmujn780@gmail.com>
+Date:   Tue Oct 24 22:13:03 2017 -0400
+
+    Finished world impl, moved to testing
+
+commit 13bbcb2a6484c11ffa6642ee500adb2276bd6411
+Author: Stephen Chin <ikmujn780@gmail.com>
+Date:   Tue Oct 24 19:56:40 2017 -0400
+
+    Added world, hex, constants, and test classes
+
+commit 2f4013db5f3a168390b64bc01cdfd6edf6b108cc
+Author: mf647 <mf647@cornell.edu>
+Date:   Tue Oct 24 19:12:18 2017 -0400
+
+    Started on interpreting MemExpr and SensorExpr
+
+commit 68e8784281fd9bc27fbeb2bbb531d658c69cbe28
+Author: mf647 <mf647@cornell.edu>
+Date:   Tue Oct 24 16:50:24 2017 -0400
+
+    Slight changes to interpreter
+
+commit 1a090bcbf0c08e2ab1f9f41d099d4feb99ebb416
+Author: mf647 <mf647@cornell.edu>
+Date:   Tue Oct 24 16:49:51 2017 -0400
+
+    Evaluation for Term, Factor Expressions
+
+commit c5a51a460715826c28aa204a1fcf258502197558
+Author: mf647 <mf647@cornell.edu>
+Date:   Tue Oct 24 11:48:49 2017 -0400
+
+    Interpreting basic BinaryConditions, RelationConditions
+
+commit ed3b7c1096ef7906616ba5026fb264de5ae9251e
+Author: mf647 <mf647@cornell.edu>
+Date:   Mon Oct 23 23:07:31 2017 -0400
+
+    Structuring the interpreter
+
+commit 00d82829a2e42763e3b842634c555b4187a6efd8
+Author: mf647 <mf647@cornell.edu>
+Date:   Mon Oct 23 16:11:56 2017 -0400
+
+    Critter Class for the model of the world
+
+commit e5b799aeac1dbd1a1d370680e2e74fed837a858c
+Author: mf647 <mf647@cornell.edu>
+Date:   Thu Oct 19 00:06:04 2017 -0400
+
+    Forgot to include new files, included now
+
+commit 388b95bc5f2ad5e1ce505da9e19a9e5a5632d41b
+Author: mf647 <mf647@cornell.edu>
+Date:   Thu Oct 19 00:04:21 2017 -0400
+
+    Worked on Interpreter
+
+commit fa4d2203477d720e6fb318f2eabd25745c9b6f66
+Author: mf647 <mf647@cornell.edu>
+Date:   Wed Oct 18 18:39:02 2017 -0400
+
+    Structure for Outcome and Interpreter
+
+commit de05a3b6676df489a3eb3b9e2a97fd03bd742b6b
+Merge: c010c60 815597a
+Author: Jacob Glueck <swimgiraffe435@gmail.com>
+Date:   Tue Oct 17 07:51:53 2017 -0400
+
+    Merge branch 'master' of github.coecis.cornell.edu:cs2112-f17/a4-release
+
+commit c010c608468d0da83a16680d41829234527e6034
+Author: mf647 <mf647@cornell.edu>
+Date:   Mon Oct 16 23:28:45 2017 -0400
+
+    More Bug Fixes, Testing, and Documentation
+
+commit 9398e42afa3e6518b531e5050c6353727fc1022d
+Author: mf647 <mf647@cornell.edu>
+Date:   Mon Oct 16 23:16:59 2017 -0400
+
+    More Bug Fixes, Testing, and Documentation
+
+commit b53333f264eed9b0884dac3ab0b84def1319ab82
+Author: mf647 <mf647@cornell.edu>
+Date:   Mon Oct 16 22:00:05 2017 -0400
+
+    Fixed some minor things
+
+commit d5e0a060ac5186595c2797d9f601ad5a9b63a4b6
+Merge: 3cf79d6 75184ae
+Author: mf647 <mf647@cornell.edu>
+Date:   Mon Oct 16 21:58:16 2017 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-f17/team-mf647-ssc248-cw.git
+
+commit 3cf79d6a5bf8a2908649f31fc8dada25089211fe
+Author: mf647 <mf647@cornell.edu>
+Date:   Mon Oct 16 21:57:38 2017 -0400
+
+    Fixed bugs
+
+commit 75184aef856d7f9d0fc17359a38bf3a8d7ca60f6
+Merge: a9b2e56 54434cf
+Author: Stephen Chin <ikmujn780@gmail.com>
+Date:   Mon Oct 16 21:54:31 2017 -0400
+
+    Merge branch into master
+
+commit a9b2e56c2da39b0554da282e7ec14dbd6f505887
+Author: Stephen Chin <ikmujn780@gmail.com>
+Date:   Mon Oct 16 21:52:53 2017 -0400
+
+    InsertMutation now works, added getParent() to absract node, setCondtion() to rule, and new tests added
+
+commit 54434cffd12e0ef0ffae2205d434c90cc7b0df80
+Merge: 569c70a d534fdd
+Author: mf647 <mf647@cornell.edu>
+Date:   Mon Oct 16 20:44:49 2017 -0400
+
+    Merge branch 'master' of
+    https://github.coecis.cornell.edu/cs2112-f17/team-mf647-ssc248-cw.git
+    
+    Conflicts:
+            src/main/java/ast/ProgramImpl.java
+            src/test/java/parsertests/MutationTests.java
+
+commit 569c70a3e52c3b15556b2585e58baa15d5cf98c0
+Author: mf647 <mf647@cornell.edu>
+Date:   Mon Oct 16 20:37:32 2017 -0400
+
+    Finished Remove, Replace, Swap and Transform Mutations
+
+commit d534fddcf3ea399bbd8070fdcfeab69b69869922
+Author: Stephen Chin <ikmujn780@gmail.com>
+Date:   Mon Oct 16 01:44:16 2017 -0400
+
+    Duplicate finished, started working on Insert
+
+commit ddaa954bc23b82d94597a75ed502101032702c84
+Author: mf647 <mf647@cornell.edu>
+Date:   Mon Oct 16 01:40:56 2017 -0400
+
+    Finished TransformMutations
+
+commit f3d8547c881fbfbbbb30f2f3e07a972a5bc24b71
+Author: Stephen Chin <ikmujn780@gmail.com>
+Date:   Sun Oct 15 23:39:15 2017 -0400
+
+    Added clone method to every node and node interface, plus cloneTest class
+
+commit 08444edce608cc753a389a4110b1b1b81c2710c3
+Author: mf647 <mf647@cornell.edu>
+Date:   Sun Oct 15 22:17:47 2017 -0400
+
+    Finished Swap Mutations
+
+commit 8f7f8708a42d4c7397e008638bfd1d43aff66c7d
+Author: mf647 <mf647@cornell.edu>
+Date:   Sun Oct 15 20:32:08 2017 -0400
+
+    Implemented RemoveMutation
+
+commit 815597af6fb9f775869ef2ba51bb5d6f66027c42
+Author: Shiyu <sw673@cornell.edu>
+Date:   Sun Oct 15 18:38:42 2017 -0400
+
+    update A5 README
+
+commit a9b88521bfd33b95a74983e5d2988b7a6c30f839
+Author: mf647 <mf647@cornell.edu>
+Date:   Sun Oct 15 14:46:37 2017 -0400
+
+    Mutation Preliminary Structure Complete
+
+commit fc209264fff7f7f320b444c36669ddbf9a75bc58
+Author: mf647 <mf647@cornell.edu>
+Date:   Sun Oct 15 10:47:22 2017 -0400
+
+    Initial Visitor Design Pattern for Mutation done
+
+commit d8700dd68a9af850ca806f5d100dc8898af55221
+Author: mf647 <mf647@cornell.edu>
+Date:   Sun Oct 15 01:17:27 2017 -0400
+
+    NodeAt Finished
+
+commit 87cc0fe690b74cc1c27540a1f85ab0a7a9833887
+Author: Stephen Chin <ikmujn780@gmail.com>
+Date:   Sat Oct 14 18:14:57 2017 -0400
+
+    Fixed size to include the node that called it
+
+commit d8c3aa8b584ede7a25e30f0ce44137271248f632
+Author: Jacob Glueck <swimgiraffe435@gmail.com>
+Date:   Sat Oct 14 07:48:38 2017 -0400
+
+    Revert "Remove a4 main class"
+    
+    This reverts commit 620c7a43d207103c789c3fb1c4c2290bae429a95.
+
+commit 1fe1444d98783d52beac55bab257c6cf20faa8ef
+Author: mf647 <mf647@cornell.edu>
+Date:   Sat Oct 14 02:06:30 2017 -0400
+
+    Started working on nodeAt
+
+commit 8903ca5826cbcffb5d969663e051fb3d949ed641
+Author: Shiyu <sw673@cornell.edu>
+Date:   Fri Oct 13 23:03:05 2017 -0400
+
+    added example world and critter
+
+commit 01683953258616d8f04a2a1a243b74bdae4fdfc3
+Author: Shiyu <sw673@cornell.edu>
+Date:   Fri Oct 13 22:54:15 2017 -0400
+
+    update main class in build.gradle
+
+commit 620c7a43d207103c789c3fb1c4c2290bae429a95
+Author: Shiyu <sw673@cornell.edu>
+Date:   Fri Oct 13 22:48:04 2017 -0400
+
+    Remove a4 main class
+
+commit e0892b69efdf555834a762fa1e1afcf557191e94
+Author: Shiyu <sw673@cornell.edu>
+Date:   Fri Oct 13 22:19:12 2017 -0400
+
+    Initial commit for A5
+
+commit 4d83211a7c66d15eaa08a3bd64218a2ae15f2cd2
+Author: mf647 <mf647@cornell.edu>
+Date:   Fri Oct 13 21:59:45 2017 -0400
+
+    Fixed small bug in ProgramImpl
+
+commit e65f7743ec7ebeb6465bafdefc2de7f2fe347dcc
+Merge: dd8195b 6bb8398
+Author: mf647 <mf647@cornell.edu>
+Date:   Fri Oct 13 21:55:15 2017 -0400
+
+    Merge branch 'master' of
+    https://github.coecis.cornell.edu/cs2112-f17/team-mf647-ssc248-cw.git
+    
+    Conflicts:
+            src/main/java/ast/ActionImpl.java
+            src/main/java/ast/SensorExpr.java
+            src/main/java/ast/TermExpr.java
+            src/main/java/ast/UpdateImpl.java
+
+commit dd8195b503d5cbd97d37fc551a7c11457a39d370
+Author: mf647 <mf647@cornell.edu>
+Date:   Fri Oct 13 21:51:49 2017 -0400
+
+    Comments and fixes
+
+commit 6bb83985ce53171c9991b792eb265382b7a4576c
+Author: Stephen Chin <ikmujn780@gmail.com>
+Date:   Fri Oct 13 21:48:47 2017 -0400
+
+    Wrote size method for all nodes, added size to consructors, added test case for size along with new test file
+
+commit a9c7c06c9beb67f6bc72e3ef50c2f49e0492add5
+Author: mf647 <mf647@cornell.edu>
+Date:   Fri Oct 13 20:18:03 2017 -0400
+
+    Starting mutations and size implementation
+
+commit 522990fab60ee4fa8c775b091e7ea466efd9a3f9
+Merge: 6b24d36 968c263
+Author: mf647 <mf647@cornell.edu>
+Date:   Thu Oct 12 16:23:45 2017 -0400
+
+    Commit
+
+commit 6b24d365969495777e3599ead9ad49c91ad37963
+Author: mf647 <mf647@cornell.edu>
+Date:   Thu Oct 12 16:20:44 2017 -0400
+
+    haha
+
+commit 968c2636c34b48852679dc78e2514003223e6cee
+Author: Stephen Chin <ikmujn780@gmail.com>
+Date:   Thu Oct 12 16:20:22 2017 -0400
+
+    Fixed problems due to merge
+
+commit 2a83ff8dae9f0fbce1d974364cfd346adcc8d9f4
+Merge: 0d32429 1d03418
+Author: Stephen Chin <ikmujn780@gmail.com>
+Date:   Thu Oct 12 16:16:37 2017 -0400
+
+    Merge branches to push
+
+commit 0d3242915f6e484bc67607e330a426d8eb8eb7f5
+Author: Stephen Chin <ikmujn780@gmail.com>
+Date:   Thu Oct 12 16:14:33 2017 -0400
+
+    documentation to parsertest
+
+commit af531d6c6eb7645d75e257ce8ea9d1a83c0fc151
+Author: Stephen Chin <ikmujn780@gmail.com>
+Date:   Thu Oct 12 16:13:46 2017 -0400
+
+    Pretty Print now works with most cases, fixed certain things in parserImpl, added two new tests to parsertest
+
+commit 1d03418b2c858dbf2de609ece8ef9bfddd2015a8
+Author: mf647 <mf647@cornell.edu>
+Date:   Thu Oct 12 16:12:31 2017 -0400
+
+    Finished parent node, more comments
+
+commit c02883cbf5bd1d7253635878c8d0e6c12e84c3e2
+Author: mf647 <mf647@cornell.edu>
+Date:   Thu Oct 12 16:02:34 2017 -0400
+
+    Implemented Abstract Node, Parent Node Compatibility, and Documentation
+
+commit f514e00bc48eb75e9e3937d752ff233024017895
+Merge: 852a097 a7d4ddb
+Author: mf647 <mf647@cornell.edu>
+Date:   Thu Oct 12 14:47:51 2017 -0400
+
+    Merge
+
+commit 852a097250f276f86c16039c5ccbcfe9785c97ff
+Author: mf647 <mf647@cornell.edu>
+Date:   Thu Oct 12 14:42:13 2017 -0400
+
+    Wrote some comments
+
+commit a7d4ddba537cf72e5a423dfecb6482a8a77e516b
+Author: Stephen Chin <ikmujn780@gmail.com>
+Date:   Thu Oct 12 12:45:36 2017 -0400
+
+    commiting just so I can work on my desktop
+
+commit d17e10c97659cea27062c9f4fbb160f360f41bca
+Author: Stephen Chin <ikmujn780@gmail.com>
+Date:   Thu Oct 12 10:08:39 2017 -0400
+
+    testPrettyPrint uses simple critter now, not unmutated critter
+
+commit 181cbb00a5734259963b2d4d8993c749d136a733
+Author: Stephen Chin <ikmujn780@gmail.com>
+Date:   Thu Oct 12 08:53:53 2017 -0400
+
+    Pretty printing almost finished for all nodes except binary condition, added one test for pretty printing
+
+commit b7be6f8df8630f85ae26d3a609f4da2688fc2ed5
+Author: mf647 <mf647@cornell.edu>
+Date:   Wed Oct 11 19:58:35 2017 -0400
+
+    Sensors
+
+commit 7563b2e18c9463e15fa447537645406b598f2a73
+Author: mf647 <mf647@cornell.edu>
+Date:   Wed Oct 11 01:36:39 2017 -0400
+
+    Primitive Pretty-Printing
+
+commit db4da58334500d32c51466fcf6d8dafbab88b285
+Author: mf647 <mf647@cornell.edu>
+Date:   Wed Oct 11 01:27:50 2017 -0400
+
+    Finished AST Brace Compatibility
+
+commit b8b73713037ebcaa3cead4b2b8cf4a8f1ab3d4b5
+Author: mf647 <mf647@cornell.edu>
+Date:   Tue Oct 10 23:41:18 2017 -0400
+
+    BRACES
+
+commit 8c290242f14d6ec84f038e53e01b886261dd955f
+Author: mf647 <mf647@cornell.edu>
+Date:   Tue Oct 10 02:08:28 2017 -0400
+
+    parsing now compatible with brackets, updates
+
+commit f57453b6c8c52574b433c25ea5f0838a7b8bbc4e
+Author: Stephen Chin <ikmujn780@gmail.com>
+Date:   Mon Oct 9 16:53:28 2017 -0400
+
+    Refactored parseExpression and parseTerm to work properly with addop and mulop
+
+commit f8708b10b0fae46ba6b866590cb798a9be730867
+Author: mf647 <mf647@cornell.edu>
+Date:   Mon Oct 9 16:09:49 2017 -0400
+
+    More parsing
+
+commit 9e37b8dcb408e27657eb54dae4550958ff6bed86
+Author: mf647 <mf647@cornell.edu>
+Date:   Mon Oct 9 12:17:16 2017 -0400
+
+    Parsing works up to term, expressions, conditions, and factors.
+    Some factors are not yet implemented and are not compatible.
+
+commit e9838cfdbf52fc86cb9c065972a33e77c3e0e1d4
+Author: mf647 <mf647@cornell.edu>
+Date:   Sun Oct 8 20:36:43 2017 -0400
+
+    Added simple_critter test file, Added TermExpr
+
+commit abca125e21bb685df09a14ad7a77b812f8923827
+Author: mf647 <mf647@cornell.edu>
+Date:   Sun Oct 8 20:35:44 2017 -0400
+
+    Deleted PlusMinusExpr
+
+commit 7299c01a296a607ef9eb743085c4b223af318303
+Author: mf647 <mf647@cornell.edu>
+Date:   Sun Oct 8 20:31:11 2017 -0400
+
+    Basic Parser Test is working
+
+commit b624146da27986a88303e4ef5d23721619af90fb
+Author: Stephen Chin <ikmujn780@gmail.com>
+Date:   Sun Oct 8 15:08:13 2017 -0400
+
+    Tokenizer now looks over comments, added a test for it in PaserTest
+
+commit be8951d654af81537bb4f19cda448d3eef2a7e44
+Author: mf647 <mf647@cornell.edu>
+Date:   Sat Oct 7 12:55:32 2017 -0400
+
+    Added some comments to the node classes
+
+commit 3a1a481e29edefd2f9ccb7ea4f8bbab81e385dbf
+Author: mf647 <mf647@cornell.edu>
+Date:   Sat Oct 7 12:53:23 2017 -0400
+
+    Added a bunch of nodes and node interfaces for the AST
+
+commit 5fddbc51564156c18b7550390a1c674a2a22e350
+Author: mf647 <mf647@cornell.edu>
+Date:   Fri Oct 6 17:10:19 2017 -0400
+
+    Implemented and edited some nodes: Action, Update, RelationCondition
+    Implemented parse() and parseProgram() in ParserImpl
+
+commit ec0c0cbfcf07c48337cb8418401fd0706f517d00
+Author: Jacob Glueck <swimgiraffe435@gmail.com>
+Date:   Wed Sep 27 07:00:30 2017 -0400
+
+    fix build.gradle
+
+commit 04b331b5522051b14e575f07b2604064ff6a2331
+Author: Jacob Glueck <swimgiraffe435@gmail.com>
+Date:   Wed Sep 27 06:57:53 2017 -0400
+
+    update main class in jar
+
+commit 12522579bc0cd8c1ac044bf393c472d01c0b8bbc
+Author: Jacob Glueck <swimgiraffe435@gmail.com>
+Date:   Wed Sep 27 06:56:20 2017 -0400
+
+    update readme
+
+commit a93e8a384e79dcf6275a0388d7c2e7903fdea7d9
+Author: Jacob Glueck <swimgiraffe435@gmail.com>
+Date:   Wed Sep 27 06:54:42 2017 -0400
+
+    update readme
+
+commit 36f6c0347f6c3833028aa5e3d85a2cd1bf552a7c
+Author: Jacob Glueck <swimgiraffe435@gmail.com>
+Date:   Tue Sep 26 20:28:47 2017 -0400
+
+    update gitignore
+
+commit 8821b53a01fc5c1b3ed87534b79dc77701244810
+Author: Jacob Glueck <swimgiraffe435@gmail.com>
+Date:   Tue Sep 26 20:15:08 2017 -0400
+
+    rename
+
+commit 7df160b24f17047dc8728648aef62e25d002364e
+Author: Kenneth Wang Fang <kwf37@cornell.edu>
+Date:   Sun Sep 24 21:33:33 2017 -0400
+
+    Update README.md
+
+commit eaec237ed515ae2af243f363faf468de1f0bf79d
+Author: Kenneth Wang Fang <kwf37@cornell.edu>
+Date:   Sun Sep 24 19:19:05 2017 -0400
+
+    Update README.md
+
+commit f3047f3b22aab046b1bcad165dd49edee47efa6e
+Author: Travis Stephen Westura <tsw52@cornell.edu>
+Date:   Sun Sep 24 16:07:29 2017 -0400
+
+    Updated README.md to fix a few typos
+
+commit 20b5fdf1415a432f9883ecea18a3693e50f637e9
+Author: Kenneth Wang Fang <kwf37@cornell.edu>
+Date:   Sun Sep 24 15:04:08 2017 -0400
+
+    Added some gradle info
+
+commit 9071e6c4bea8d968e0228b7c421f3389cc3f3164
+Author: Kenneth Wang Fang <kwf37@cornell.edu>
+Date:   Sun Sep 24 14:28:28 2017 -0400
+
+    Added Git instructinos
+
+commit f35fb464b5841565a1d7499cfada19183b1a1f02
+Author: Travis Westura <twestura@gmail.com>
+Date:   Sat Sep 23 19:01:04 2017 -0400
+
+    small update to example test
+
+commit e166fa58cf171728212f8b39a5654485f796d41c
+Author: Travis Westura <twestura@gmail.com>
+Date:   Sat Sep 23 18:59:35 2017 -0400
+
+    Add example test
+
+commit f68e672761aaf65c8d725208c6e96a949ffe0518
+Author: Travis Westura <twestura@gmail.com>
+Date:   Sat Sep 23 18:32:19 2017 -0400
+
+    Add readme file to the test directory
+
+commit 0962bf39e4b12cde0a84e89e705ba3590dae28ea
+Author: Travis Westura <twestura@gmail.com>
+Date:   Sat Sep 23 18:30:05 2017 -0400
+
+    Update jar output in gradle build file
+
+commit 614cf3ad27c42a61bfc1555f1d87ccaa1efcceda
+Author: Travis Westura <twestura@gmail.com>
+Date:   Sat Sep 23 18:28:02 2017 -0400
+
+    Move example program resources to the test
+
+commit 69d53902393fb0cab3dd9cba9a187a11d7466bbb
+Author: Travis Westura <twestura@gmail.com>
+Date:   Sat Sep 23 18:25:39 2017 -0400
+
+    Remove repeated resources folder
+
+commit fe07f661c087d1eaab52333f88fc237afd0c9879
+Author: Travis Westura <twestura@gmail.com>
+Date:   Sat Sep 23 18:21:52 2017 -0400
+
+    Initial commit of a4 files

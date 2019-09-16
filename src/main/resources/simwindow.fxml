@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.canvas.Canvas?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+
+<AnchorPane maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" minHeight="-Infinity" minWidth="-Infinity" onKeyPressed="#keyPressed" prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="console.CritterWorldController">
+   <children>
+      <AnchorPane maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" AnchorPane.bottomAnchor="125.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <ScrollPane fx:id="worldPane" hbarPolicy="NEVER" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="475.0" prefWidth="800.0" vbarPolicy="NEVER" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+               <content>
+                  <HBox alignment="CENTER" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308">
+                     <children>
+                        <Canvas fx:id="hexCanvas" height="475.0" width="800.0" />
+                     </children>
+                  </HBox>
+               </content>
+            </ScrollPane>
+         </children>
+      </AnchorPane>
+      <AnchorPane layoutX="31.0" layoutY="475.0" maxHeight="-Infinity" maxWidth="1.7976931348623157E308" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="31.0" AnchorPane.rightAnchor="22.0">
+         <children>
+            <AnchorPane layoutY="9.0" AnchorPane.leftAnchor="0.0">
+               <children>
+                  <Button fx:id="loadWorldButton" mnemonicParsing="false" text="Load World" />
+                  <Button fx:id="loadCritterButton" layoutY="40.0" mnemonicParsing="false" text="Load Critter" />
+                  <Button fx:id="newWorldButton" layoutX="99.0" mnemonicParsing="false" prefHeight="27.0" prefWidth="132.0" text="Load Preset World" textOverrun="CLIP" />
+                  <CheckBox fx:id="placeCritterToggle" layoutY="68.0" mnemonicParsing="false" prefHeight="36.0" prefWidth="132.0" text="Randomly Place Critter" wrapText="true" />
+                  <Button fx:id="refreshWorld" layoutX="99.0" layoutY="40.0" mnemonicParsing="false" prefHeight="27.0" prefWidth="132.0" text="Refresh World" />
+               </children>
+            </AnchorPane>
+            <HBox alignment="CENTER" layoutX="253.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="253.0" AnchorPane.rightAnchor="197.0" AnchorPane.topAnchor="0.0">
+               <children>
+                  <AnchorPane>
+                     <children>
+                        <Label fx:id="worldInfo" alignment="CENTER" contentDisplay="CENTER" prefHeight="125.0" prefWidth="188.0" textAlignment="CENTER" wrapText="true" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.topAnchor="0.0" />
+                        <Label fx:id="stepLabel" layoutX="186.0" layoutY="9.0" prefHeight="27.0" prefWidth="54.0" textAlignment="CENTER" wrapText="true" AnchorPane.leftAnchor="186.0" AnchorPane.topAnchor="9.0" />
+                        <Label fx:id="critterNumLabel" layoutX="186.0" layoutY="36.0" prefHeight="27.0" prefWidth="54.0" textAlignment="CENTER" wrapText="true" AnchorPane.leftAnchor="186.0" AnchorPane.topAnchor="36.0" />
+                        <Label fx:id="numberOfSteps" layoutX="243.0" layoutY="9.0" prefHeight="27.0" prefWidth="54.0" AnchorPane.leftAnchor="243.0" AnchorPane.topAnchor="9.0" />
+                        <Label fx:id="numberOfCritters" layoutX="243.0" layoutY="37.0" prefHeight="27.0" prefWidth="54.0" AnchorPane.leftAnchor="243.0" AnchorPane.topAnchor="37.0" />
+                     </children>
+                  </AnchorPane>
+               </children>
+            </HBox>
+            <AnchorPane layoutX="569.0" layoutY="9.0" AnchorPane.rightAnchor="0.0">
+               <children>
+                  <Button fx:id="zoomIn" mnemonicParsing="false" prefHeight="27.0" prefWidth="79.0" text="Zoom In" />
+                  <Button fx:id="zoomOut" layoutX="99.0" mnemonicParsing="false" text="Zoom Out" />
+                  <Button fx:id="stepButton" layoutY="72.0" mnemonicParsing="false" prefHeight="27.0" prefWidth="79.0" text="Step" />
+                  <Button fx:id="pauseButton" layoutX="99.0" layoutY="72.0" mnemonicParsing="false" prefHeight="27.0" prefWidth="79.0" text="Pause" />
+                  <Button fx:id="simulateButton" layoutY="40.0" mnemonicParsing="false" prefHeight="27.0" prefWidth="178.0" text="Simulate" />
+               </children>
+            </AnchorPane>
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>
